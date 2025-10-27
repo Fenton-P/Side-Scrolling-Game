@@ -1,0 +1,51 @@
+Level_ID: 0
+Check_Point: {Length: 7;-
+Point0: {X: 256;Y: 672};-
+Point1: {X: 1456;Y: 608};-
+Point2: {X: 1392;Y: 288};-
+Point3: {X: 2192;Y: 608};-
+Point4: {X: 3120;Y: 608};-
+Point5: {X: 3568;Y: 608};-
+Point6: {X: 1024;Y: 608}}
+Background: ruinedCity
+Map_Blocks: {Length: 26;-
+Block0: {Color: #000000;Location: {X: 128;Y: 736};Size: {Width: 1104;Height: 64};Texture: base.brick};-
+Block1: {Color: #000000;Location: {X: 1168;Y: 208};Size: {Width: 64;Height: 528};Texture: base.brick};-
+Block2: {Color: #000000;Location: {X: 128;Y: 208};Size: {Width: 1040;Height: 64};Texture: base.brick};-
+Block3: {Color: #000000;Location: {X: 128;Y: 272};Size: {Width: 64;Height: 464};Texture: base.brick};-
+Block4: {Color: #000000;Location: {X: 432;Y: 608};Size: {Width: 224;Height: 64};Texture: base.brick};-
+Block5: {Color: #000000;Location: {X: 784;Y: 544};Size: {Width: 64;Height: 64};Texture: base.brick};-
+Block6: {Color: #000000;Location: {X: 944;Y: 448};Size: {Width: 224;Height: 64};Texture: base.brick};-
+Block7: {Color: #000000;Location: {X: 1232;Y: 736};Size: {Width: 1168;Height: 64};Texture: base.brick};-
+Block8: {Color: #000000;Location: {X: 1648;Y: 576};Size: {Width: 64;Height: 64};Texture: base.brick};-
+Block9: {Color: #000000;Location: {X: 1760;Y: 432};Size: {Width: 320;Height: 64};Texture: base.brick};-
+Block10: {Color: #000000;Location: {X: 2336;Y: 208};Size: {Width: 64;Height: 304};Texture: base.brick};-
+Block11: {Color: #000000;Location: {X: 1232;Y: 208};Size: {Width: 1104;Height: 64};Texture: base.brick};-
+Block12: {Color: #000000;Location: {X: 1904;Y: 496};Size: {Width: 64;Height: 240};Texture: base.brick};-
+Block13: {Color: #000000;Location: {X: 1232;Y: 416};Size: {Width: 336;Height: 64};Texture: base.brick};-
+Block14: {Color: #000000;Location: {X: 2400;Y: 208};Size: {Width: 912;Height: 64};Texture: base.brick};-
+Block15: {Color: #000000;Location: {X: 3248;Y: 272};Size: {Width: 64;Height: 528};Texture: base.brick};-
+Block16: {Color: #000000;Location: {X: 2400;Y: 736};Size: {Width: 848;Height: 64};Texture: base.brick};-
+Block17: {Color: #000000;Location: {X: 2960;Y: 448};Size: {Width: 288;Height: 64};Texture: base.brick};-
+Block18: {Color: #000000;Location: {X: 2752;Y: 448};Size: {Width: 64;Height: 64};Texture: base.brick};-
+Block19: {Color: #000000;Location: {X: 2400;Y: 448};Size: {Width: 224;Height: 64};Texture: base.brick};-
+Block20: {Color: #000000;Location: {X: 2560;Y: 512};Size: {Width: 64;Height: 224};Texture: base.brick};-
+Block21: {Color: #000000;Location: {X: 2848;Y: 576};Size: {Width: 160;Height: 48};Texture: base.brick};-
+Block22: {Color: #000000;Location: {X: 2752;Y: 704};Size: {Width: 64;Height: 32};Texture: base.brick};-
+Block23: {Color: #000000;Location: {X: 3312;Y: 448};Size: {Width: 448;Height: 64};Texture: base.brick};-
+Block24: {Color: #000000;Location: {X: 3696;Y: 512};Size: {Width: 64;Height: 288};Texture: base.brick};-
+Block25: {Color: #000000;Location: {X: 3312;Y: 736};Size: {Width: 384;Height: 64};Texture: base.brick}}
+Check_Point_Blocks: {Length: 6;-
+CheckPoint0: {Link: 0;Location: {X: 1456;Y: 672};Size: {Width: 64;Height: 64};Visible: true};-
+CheckPoint1: {Link: 1;Location: {X: 1392;Y: 352};Size: {Width: 64;Height: 64};Visible: true};-
+CheckPoint2: {Link: 2;Location: {X: 2192;Y: 672};Size: {Width: 64;Height: 64};Visible: true};-
+CheckPoint3: {Link: 3;Location: {X: 3120;Y: 672};Size: {Width: 64;Height: 64};Visible: true};-
+CheckPoint4: {Link: 4;Location: {X: 3568;Y: 672};Size: {Width: 64;Height: 64};Visible: true};-
+CheckPoint5: {Link: 5;Location: {X: 1024;Y: 672};Size: {Width: 64;Height: 64};Visible: true}}
+Swap_Buttons: {Length: 6;-
+Button0: {Location: {X: 1296;Y: 720};Link: 1;HasSwap: true;Abilities: {Length: 0;ResetNormal: true;JumpHeight: 17;Speed: 2;Mode: legs;MaxEnergy: 200}};-
+Button1: {Location: {X: 992;Y: 432};Link: 0;HasSwap: false;Abilities: {Length: 0;ResetNormal: true}};-
+Button2: {Location: {X: 3120;Y: 432};Link: 3;HasSwap: true;Abilities: {Length: 0;ResetNormal: true}};-
+Button3: {Location: {X: 2400;Y: 720};Link: 2;HasSwap: false;Abilities: {Length: 0;ResetNormal: true}};-
+Button4: {Location: {X: 3344;Y: 720};Link: 5;HasSwap: true;Abilities: {Length: 0;ResetNormal: true}};-
+Button5: {Location: {X: 2448;Y: 432};Link: 4;HasSwap: false;Abilities: {Length: 0;ResetNormal: true}}}

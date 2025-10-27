@@ -1,0 +1,240 @@
+Level_ID: 0
+Check_Point: {Length: 1;-
+Point0: {X: 20;Y: 13}}
+Background: image file and path
+Map_Blocks: {Length: 4;-
+Block0: {Color: #000000;Location: {X: 150;Y: 200};Size: {Width: 180;Height: 134};Texture: null};-
+Block1: {Color: #000000;Location: {X: 0;Y: 320};Size: {Width: 243;Height: 166};Texture: null};-
+Block2: {Color: #000000;Location: {X: 238.5;Y: 450};Size: {Width: 428;Height: 34};Texture: null};-
+Block3: {Color: #000000;Location: {X: 575;Y: 120};Size: {Width: 200;Height: 59};Texture: null}}
+Check_Point_Blocks: {Length: 1;-
+CheckPoint0: {Link: 0;Location: {X: 400;Y: 200};Size: {Width: 50;Height: 50};Visible: true}}
+
+Level_ID: 0
+Check_Point: {Length: 2;Point0: {X: 150;Y: 100};Point1: {X: 850;Y: 250}}
+Background: image file and path
+Map_Blocks: {Length: 5;-
+Block0: {Color: #AAAAAA;Location: {X: 100;Y: 400};Size: {Width: 200;Height: 500};Texture: null};-
+Block1: {Color: #AAAAAA;Location: {X: 0;Y: 0};Size: {Width: 100;Height: 900};Texture: null};-
+Block2: {Color: #AAAAAA;Location: {X: 300;Y: 450};Size: {Width: 1300;Height: 450};Texture: null};-
+Block3: {Color: #AAAAAA;Location: {X: 400;Y: 300};Size: {Width: 500;Height: 50};Texture: null};-
+Block4: {Color: #AAAAAA;Location: {X: 1050;Y: 200};Size: {Width: 300;Height: 50};Texture: null}}
+Check_Point_Blocks: {Length: 1;-
+CheckPoint0: {Location: {X: 800;Y: 200};Size: {Width: 100;Height: 100};Link: 0;Visible: true}}
+Swap_Buttons: {Length: 2;-
+Button0: {Location: {X: 950;Y: 430};Link: 1};-
+Button1: {Location: {X: 1100;Y: 180};Link: 0}}
+
+Level_ID: 0
+Check_Point: {Length: 1;-
+Point0: {X: 100;Y: 800}}
+Background: image file and path
+Map_Blocks: {Length: 3;-
+Block0: {Color: #000000;Location: {X: 0;Y: 0};Size: {Width: 50;Height: 900};Texture: null};-
+Block1: {Color: #000000;Location: {X: 50;Y: 850};Size: {Width: 1550;Height: 50};Texture: null};-
+Block2: {Color: #000000;Location: {X: 1550;Y: 0};Size: {Width: 50;Height: 850};Texture: null}}
+Check_Point_Blocks: {Length: 1;-
+CheckPoint0: {Link: 0;Location: {X: 300;Y: 750};Size: {Width: 100;Height: 100};Visible: true}}
+Swap_Buttons: {Length: 2;-
+Button0: {Location: {X: 1300;Y: 830};Link: 5;HasSwap: true};-
+Button1: {Location: {X: 500;Y: 830};Link: 4;HasSwap: false}}
+
+Level_ID: 0
+Check_Point: {Length: 2;-
+Point0: {X: 75;Y: 250};-
+Point1: {X: 125;Y: 575}}
+Background: image file and path
+Map_Blocks: {Length: 18;-
+Block0: {Color: #000000;Location: {X: 0;Y: 300};Size: {Width: 300;Height: 200};Texture: null};-
+Block1: {Color: #000000;Location: {X: 300;Y: 300};Size: {Width: 200;Height: 100};Texture: null};-
+Block2: {Color: #000000;Location: {X: 300;Y: 400};Size: {Width: 100;Height: 50};Texture: null};-
+Block3: {Color: #000000;Location: {X: 500;Y: 300};Size: {Width: 100;Height: 50};Texture: null};-
+Block4: {Color: #000000;Location: {X: 700;Y: 300};Size: {Width: 200;Height: 150};Texture: null};-
+Block5: {Color: #000000;Location: {X: 850;Y: 0};Size: {Width: 50;Height: 300};Texture: null};-
+Block6: {Color: #000000;Location: {X: 750;Y: 450};Size: {Width: 150;Height: 250};Texture: null};-
+Block7: {Color: #000000;Location: {X: 0;Y: 0};Size: {Width: 50;Height: 300};Texture: null};-
+Block8: {Color: #000000;Location: {X: 250;Y: 500};Size: {Width: 50;Height: 200};Texture: null};-
+Block9: {Color: #000000;Location: {X: 0;Y: 500};Size: {Width: 50;Height: 200};Texture: null};-
+Block10: {Color: #000000;Location: {X: 0;Y: 700};Size: {Width: 900;Height: 50};Texture: null};-
+Block11: {Color: #000000;Location: {X: 700;Y: 575};Size: {Width: 50;Height: 125};Texture: null};-
+Block12: {Color: #000000;Location: {X: 650;Y: 650};Size: {Width: 50;Height: 50};Texture: null};-
+Block13: {Color: #000000;Location: {X: 300;Y: 450};Size: {Width: 50;Height: 100};Texture: null};-
+Block14: {Color: #000000;Location: {X: 350;Y: 450};Size: {Width: 200;Height: 57};Texture: null};-
+Block15: {Color: #000000;Location: {X: 650;Y: 350};Size: {Width: 50;Height: 50};Texture: null};-
+Block16: {Color: #000000;Location: {X: 900;Y: 700};Size: {Width: 300;Height: 50};Texture: null};-
+Block17: {Color: #000000;Location: {X: 1150;Y: 0};Size: {Width: 50;Height: 700};Texture: null}}
+Check_Point_Blocks: {Length: 1;-
+CheckPoint0: {Link: 0;Location: {X: 100;Y: 550};Size: {Width: 100;Height: 100};Visible: true}}
+Swap_Buttons: {Length: 8;-
+Button0: {Location: {X: 340;Y: 680};Link: 1};-
+Button1: {Location: {X: 100;Y: 680};Link: 0};-
+Button2: {Location: {X: 300;Y: 280};Link: 3};-
+Button3: {Location: {X: 500;Y: 680};Link: 2};-
+Button4: {Location: {X: 450;Y: 280};Link: 5};-
+Button5: {Location: {X: 1000;Y: 50};Link: 4};-
+Button6: {Location: {X: 975;Y: 680};Link: 7};-
+Button7: {Location: {X: 160;Y: 280};Link: 6}}
+
+Level_ID: 0
+Check_Point: {Length: 2;-
+Point0: {X: 64;Y: 448};-
+Point1: {X: 1480;Y: 640}}
+Background: image file and path
+Map_Blocks: {Length: 5;-
+Block0: {Color: #000000;Location: {X: 0;Y: 512};Size: {Width: 192;Height: 448};Texture: base.brick};-
+Block1: {Color: #000000;Location: {X: 192;Y: 576};Size: {Width: 128;Height: 384};Texture: base.brick};-
+Block2: {Color: #000000;Location: {X: 320;Y: 640};Size: {Width: 64;Height: 320};Texture: base.brick};-
+Block3: {Color: #000000;Location: {X: 384;Y: 704};Size: {Width: 384;Height: 256};Texture: base.brick};-
+Block4: {Color: #000000;Location: {X: 1152;Y: 704};Size: {Width: 448;Height: 256};Texture: base.brick}}
+Check_Point_Blocks: {Length: 1;-
+CheckPoint0: {Link: 0;Location: {X: 1480;Y: 640};Size: {Width: 64;Height: 64};Visible: true}}
+Swap_Buttons: {Length: 2;-
+Button0: {Location: {X: 1191;Y: 684};Link: 1;HasSwap: true;Abilities: {Length: 0;ResetNormal: true}};-
+Button1: {Location: {X: 628;Y: 684};Link: 0;HasSwap: false;Abilities: {Length: 0;ResetNormal: true}}}
+
+Level_ID: 0
+Check_Point: {Length: 2;-
+Point0: {X: 100;Y: 786};-
+Point1: {X: 300;Y: 786}}
+Background: image file and path
+Map_Blocks: {Length: 4;-
+Block0: {Color: #000000;Location: {X: 0;Y: 0};Size: {Width: 64;Height: 896};Texture: base.brick};-
+Block1: {Color: #000000;Location: {X: 0;Y: 850};Size: {Width: 1600;Height: 64};Texture: base.brick};-
+Block2: {Color: #000000;Location: {X: 1550;Y: 0};Size: {Width: 64;Height: 896};Texture: base.brick};-
+Block3: {Color: #000000;Location: {X: 900;Y: 500};Size: {Width: 256;Height: 128};Texture: base.brick}}
+Check_Point_Blocks: {Length: 1;-
+CheckPoint0: {Link: 0;Location: {X: 300;Y: 800};Size: {Width: 50;Height: 50};Visible: true}}
+Swap_Buttons: {Length: 2;-
+Button0: {Location: {X: 1300;Y: 830};Link: 1;HasSwap: true;Abilities: {Length: 2;ResetNormal: true;JumpHeight: 30;Speed: 2;Mode: legs}};-
+Button1: {Location: {X: 400;Y: 830};Link: 0;HasSwap: false;Abilities: {Length: 0;ResetNormal: true}}}
+
+Level_ID: 0
+Check_Point: {Length: 4;-
+Point0: {X: 75;Y: 436};-
+Point1: {X: 1560;Y: 516};-
+Point2: {X: 3147;Y: 109};-
+Point3: {X: 3502;Y: -524}}
+Background: image file and path
+Map_Blocks: {Length: 17;-
+Block0: {Color: #000000;Location: {X: 0;Y: 500};Size: {Width: 200;Height: 400};Texture: base.brick};-
+Block1: {Color: #000000;Location: {X: 200;Y: 520};Size: {Width: 50;Height: 380};Texture: base.brick};-
+Block2: {Color: #000000;Location: {X: 250;Y: 540};Size: {Width: 50;Height: 360};Texture: base.brick};-
+Block3: {Color: #000000;Location: {X: 300;Y: 560};Size: {Width: 100;Height: 340};Texture: base.brick};-
+Block4: {Color: #000000;Location: {X: 400;Y: 580};Size: {Width: 450;Height: 320};Texture: base.brick};-
+Block5: {Color: #000000;Location: {X: 950;Y: 550};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block6: {Color: #000000;Location: {X: 1130;Y: 630};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block7: {Color: #000000;Location: {X: 1320;Y: 600};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block8: {Color: #000000;Location: {X: 1500;Y: 580};Size: {Width: 400;Height: 320};Texture: base.brick};-
+Block9: {Color: #000000;Location: {X: 1900;Y: 343};Size: {Width: 600;Height: 352};Texture: base.brick};-
+Block10: {Color: #000000;Location: {X: 1840;Y: 125};Size: {Width: 112;Height: 218};Texture: base.brick};-
+Block11: {Color: #000000;Location: {X: 2585;Y: 268};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block12: {Color: #000000;Location: {X: 2810;Y: 199};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block13: {Color: #000000;Location: {X: 3040;Y: 173};Size: {Width: 1000;Height: 261};Texture: base.brick};-
+Block14: {Color: #000000;Location: {X: 3970;Y: -69};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block15: {Color: #000000;Location: {X: 3808;Y: -290};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block16: {Color: #000000;Location: {X: 3180;Y: -460};Size: {Width: 569;Height: 161};Texture: base.brick}}
+Check_Point_Blocks: {Length: 3;-
+CheckPoint0: {Link: 0;Location: {X: 1542;Y: 500};Size: {Width: 100;Height: 80};Visible: true};-
+CheckPoint1: {Link: 1;Location: {X: 3130;Y: 73};Size: {Width: 100;Height: 100};Visible: true};-
+CheckPoint2: {Link: 2;Location: {X: 3469;Y: -570};Size: {Width: 130;Height: 110};Visible: true}}
+Swap_Buttons: {Length: 4;-
+Button0: {Location: {X: 2060;Y: 324};Link: 1;HasSwap: true;Abilities: {Length: 0;ResetNormal: true}};-
+Button1: {Location: {X: 1727;Y: 560};Link: 0;HasSwap: false;Abilities: {Length: 0;ResetNormal: true}};-
+Button2: {Location: {X: 3650;Y: 153};Link: 3;HasSwap: true;Abilities: {Length: 0;ResetNormal: true;JumpHeight: 25;Speed: 2;Mode: legs;MaxEnergy: 400}};-
+Button3: {Location: {X: 3420;Y: 153};Link: 2;HasSwap: false;Abilities: {Length: 0;ResetNormal: true}}}
+
+Level_ID: 0
+Check_Point: {Length: 2;-
+Point0: {X: 64;Y: 448};-
+Point1: {X: 1480;Y: 640}}
+Background: image file and path
+Map_Blocks: {Length: 5;-
+Block0: {Color: #000000;Location: {X: 0;Y: 512};Size: {Width: 192;Height: 448};Texture: base.brick};-
+Block1: {Color: #000000;Location: {X: 192;Y: 576};Size: {Width: 128;Height: 384};Texture: base.brick};-
+Block2: {Color: #000000;Location: {X: 320;Y: 640};Size: {Width: 64;Height: 320};Texture: base.brick};-
+Block3: {Color: #000000;Location: {X: 384;Y: 704};Size: {Width: 384;Height: 256};Texture: base.brick};-
+Block4: {Color: #000000;Location: {X: 1152;Y: 704};Size: {Width: 448;Height: 256};Texture: base.brick}}
+Check_Point_Blocks: {Length: 1;-
+CheckPoint0: {Link: 0;Location: {X: 1480;Y: 640};Size: {Width: 64;Height: 64};Visible: true}}
+Swap_Buttons: {Length: 2;-
+Button0: {Location: {X: 1191;Y: 684};Link: 1;HasSwap: true;Abilities: {Length: 0;ResetNormal: true}};-
+Button1: {Location: {X: 628;Y: 684};Link: 0;HasSwap: false;Abilities: {Length: 0;ResetNormal: true}}}
+
+Level_ID: 0
+Check_Point: {Length: 4;-
+Point0: {X: 75;Y: 436};-
+Point1: {X: 1560;Y: 516};-
+Point2: {X: 3147;Y: 109};-
+Point3: {X: 3502;Y: -524}}
+Background: ruinedCity
+Map_Blocks: {Length: 17;-
+Block0: {Color: #000000;Location: {X: 0;Y: 500};Size: {Width: 200;Height: 400};Texture: base.brick};-
+Block1: {Color: #000000;Location: {X: 200;Y: 520};Size: {Width: 50;Height: 380};Texture: base.brick};-
+Block2: {Color: #000000;Location: {X: 250;Y: 540};Size: {Width: 50;Height: 360};Texture: base.brick};-
+Block3: {Color: #000000;Location: {X: 300;Y: 560};Size: {Width: 100;Height: 340};Texture: base.brick};-
+Block4: {Color: #000000;Location: {X: 400;Y: 580};Size: {Width: 450;Height: 320};Texture: base.brick};-
+Block5: {Color: #000000;Location: {X: 950;Y: 550};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block6: {Color: #000000;Location: {X: 1130;Y: 630};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block7: {Color: #000000;Location: {X: 1320;Y: 600};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block8: {Color: #000000;Location: {X: 1500;Y: 580};Size: {Width: 400;Height: 320};Texture: base.brick};-
+Block9: {Color: #000000;Location: {X: 1900;Y: 343};Size: {Width: 600;Height: 352};Texture: base.brick};-
+Block10: {Color: #000000;Location: {X: 1840;Y: 125};Size: {Width: 112;Height: 218};Texture: base.brick};-
+Block11: {Color: #000000;Location: {X: 2585;Y: 268};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block12: {Color: #000000;Location: {X: 2810;Y: 199};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block13: {Color: #000000;Location: {X: 3040;Y: 173};Size: {Width: 1000;Height: 261};Texture: base.brick};-
+Block14: {Color: #000000;Location: {X: 3970;Y: -69};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block15: {Color: #000000;Location: {X: 3808;Y: -290};Size: {Width: 100;Height: 100};Texture: base.brick};-
+Block16: {Color: #000000;Location: {X: 3180;Y: -460};Size: {Width: 569;Height: 161};Texture: base.brick}}
+Check_Point_Blocks: {Length: 3;-
+CheckPoint0: {Link: 0;Location: {X: 1542;Y: 516};Visible: true};-
+CheckPoint1: {Link: 1;Location: {X: 3130;Y: 109};Visible: true};-
+CheckPoint2: {Link: 2;Location: {X: 3469;Y: -524};Visible: true}}
+Swap_Buttons: {Length: 4;-
+Button0: {Location: {X: 2060;Y: 324};Link: 1;HasSwap: true;Abilities: {Length: 0;ResetNormal: true}};-
+Button1: {Location: {X: 1727;Y: 560};Link: 0;HasSwap: false;Abilities: {Length: 0;ResetNormal: true}};-
+Button2: {Location: {X: 3650;Y: 153};Link: 3;HasSwap: true;Abilities: {Length: 0;ResetNormal: true;JumpHeight: 25;Speed: 2;Mode: legs;MaxEnergy: 400}};-
+Button3: {Location: {X: 3420;Y: 153};Link: 2;HasSwap: false;Abilities: {Length: 0;ResetNormal: true}}}
+
+Level_ID: 0
+Check_Point: {Length: 5;-
+Point0: {X: 336;Y: 592};-
+Point1: {X: 544;Y: 240};-
+Point2: {X: 1328;Y: 576};-
+Point3: {X: 2208;Y: 576};-
+Point4: {X: 3008;Y: 576}}
+Background: ruinedCity
+Map_Blocks: {Length: 24;-
+Block0: {Color: #000000;Location: {X: 176;Y: 704};Size: {Width: 1760;Height: 64};Texture: base.brick};-
+Block1: {Color: #000000;Location: {X: 176;Y: 656};Size: {Width: 624;Height: 48};Texture: base.brick};-
+Block2: {Color: #000000;Location: {X: 176;Y: 112};Size: {Width: 64;Height: 560};Texture: base.brick};-
+Block3: {Color: #000000;Location: {X: 224;Y: 112};Size: {Width: 1632;Height: 64};Texture: base.brick};-
+Block4: {Color: #000000;Location: {X: 880;Y: 560};Size: {Width: 304;Height: 64};Texture: base.brick};-
+Block5: {Color: #000000;Location: {X: 1120;Y: 496};Size: {Width: 64;Height: 64};Texture: base.brick};-
+Block6: {Color: #000000;Location: {X: 1216;Y: 400};Size: {Width: 64;Height: 64};Texture: base.brick};-
+Block7: {Color: #000000;Location: {X: 464;Y: 368};Size: {Width: 544;Height: 64};Texture: base.brick};-
+Block8: {Color: #000000;Location: {X: 1008;Y: 368};Size: {Width: 64;Height: 64};Texture: base.brick};-
+Block9: {Color: #000000;Location: {X: 1376;Y: 400};Size: {Width: 64;Height: 64};Texture: base.brick};-
+Block10: {Color: #000000;Location: {X: 1536;Y: 400};Size: {Width: 208;Height: 64};Texture: base.brick};-
+Block11: {Color: #000000;Location: {X: 1536;Y: 464};Size: {Width: 64;Height: 240};Texture: base.brick};-
+Block12: {Color: #000000;Location: {X: 1856;Y: 112};Size: {Width: 80;Height: 592};Texture: base.brick};-
+Block13: {Color: #000000;Location: {X: 1936;Y: 704};Size: {Width: 1296;Height: 64};Texture: base.brick};-
+Block14: {Color: #000000;Location: {X: 2368;Y: 496};Size: {Width: 224;Height: 80};Texture: base.brick};-
+Block15: {Color: #000000;Location: {X: 2512;Y: 256};Size: {Width: 208;Height: 64};Texture: base.brick};-
+Block16: {Color: #000000;Location: {X: 1872;Y: 0};Size: {Width: 64;Height: 128};Texture: base.brick};-
+Block17: {Color: #000000;Location: {X: 1936;Y: 0};Size: {Width: 1120;Height: 64};Texture: base.brick};-
+Block18: {Color: #000000;Location: {X: 2592;Y: 416};Size: {Width: 464;Height: 64};Texture: base.brick};-
+Block19: {Color: #000000;Location: {X: 2592;Y: 480};Size: {Width: 80;Height: 224};Texture: base.brick};-
+Block20: {Color: #000000;Location: {X: 2592;Y: 320};Size: {Width: 64;Height: 96};Texture: base.brick};-
+Block21: {Color: #000000;Location: {X: 2992;Y: 64};Size: {Width: 80;Height: 352};Texture: base.brick};-
+Block22: {Color: #000000;Location: {X: 3056;Y: 416};Size: {Width: 192;Height: 64};Texture: base.brick};-
+Block23: {Color: #000000;Location: {X: 3168;Y: 480};Size: {Width: 80;Height: 240};Texture: base.brick}}
+Check_Point_Blocks: {Length: 4;-
+CheckPoint0: {Link: 0;Location: {X: 544;Y: 304};Size: {Width: 64;Height: 64};Visible: true};-
+CheckPoint1: {Link: 1;Location: {X: 1328;Y: 640};Size: {Width: 64;Height: 64};Visible: true};-
+CheckPoint2: {Link: 2;Location: {X: 2208;Y: 640};Size: {Width: 64;Height: 64};Visible: true};-
+CheckPoint3: {Link: 3;Location: {X: 3008;Y: 640};Size: {Width: 64;Height: 64};Visible: true}}
+Swap_Buttons: {Length: 4;-
+Button0: {Location: {X: 2032;Y: 688};Link: 1;HasSwap: true;Abilities: {Length: 0;ResetNormal: true;JumpHeight: 25;Speed: 2;Mode: legs;MaxEnergy: 400}};-
+Button1: {Location: {X: 1664;Y: 688};Link: 0;HasSwap: false;Abilities: {Length: 0;ResetNormal: true}};-
+Button2: {Location: {X: 2784;Y: 688};Link: 3;HasSwap: true;Abilities: {Length: 0;ResetNormal: true}};-
+Button3: {Location: {X: 2784;Y: 400};Link: 2;HasSwap: false;Abilities: {Length: 0;ResetNormal: true}}}
