@@ -1,8 +1,11 @@
 A simple side scrolling game.
 
 CONTROLS:
+
 W or SPACE ----> JUMP
+
 A/D -----------> LEFT/RIGHT
+
 S -------------> TELEPORT
 
 GAME:
